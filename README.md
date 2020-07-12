@@ -1,7 +1,8 @@
 Tarea 4 - Topics Trip Advisor
 ==============================
-
-Esta tarea identifica 5 Topics en un set de datos de Trip Advisor
+### Rommel Santizo - 91071
+___
+Esta tarea identifica 5 Topics en un set de datos de Trip Advisor.
 Y genera un modelo para predecir a partir un input a que Topic pertenece
 ___
 Ejecución:
@@ -18,7 +19,7 @@ Denominación de Topicos
 2. El hotel
 3. Actividades para hacer
 4. Descanso
-5. Lugares 
+5. Lugares dentro de la Antigua
 ---
 Project Organization
 ------------
